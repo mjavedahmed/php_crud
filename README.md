@@ -7,3 +7,7 @@ A very basic CRUD for learning using PHP &amp; MySQL
 
 # What you need?
 ``` A web server and a browser ```
+
+# About Project
+
+``` This project contains Create, Read Update and Delete ```
