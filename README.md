@@ -13,6 +13,6 @@ A very basic CRUD for learning using PHP &amp; MySQL
 ``` This project contains Create, Read Update and Delete and check ```
 
 # It Contains
-```
-  index.php, delete.php, edit.php, update.php
-```
+
+  ```index.php, delete.php, edit.php, update.php```
+
